@@ -3,4 +3,4 @@
 Wilson Zhu
 
 
-[Webpage Link](https://w6zhu.github.io/Lab6_Starter/)
+[Webpage Link](https://w6zhu.github.io/Lab6_Starter/index.html)
